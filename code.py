@@ -18,3 +18,4 @@ def oCalc(x):
 	return(round((1-cTotal)*100));
 	
 print(oCalc(gIn()));
+input();
